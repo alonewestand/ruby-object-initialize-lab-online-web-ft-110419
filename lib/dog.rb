@@ -7,7 +7,7 @@ def initialize(name, breed = "Mutt")
 end
 
 def breed(breed="Mutt")
-  @breed = breed(breed="Mutt")
+  @breed(breed = "Mutt") = breed)
   return "#{@breed="Mutt"}"
 end
 
