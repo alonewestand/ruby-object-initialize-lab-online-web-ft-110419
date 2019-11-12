@@ -10,5 +10,7 @@ def breed(breed="Mutt")
   @breed = breed
   return "#{@breed="Mutt"}"
 end
-
+def breed
+@breed
+end
 end
